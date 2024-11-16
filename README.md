@@ -13,7 +13,7 @@ Data is sourced from [Overton](https://www.overton.io/), a database of policy do
 - Visualization
 
 ### Code Structure
-- Code1. Setting target documents - by Jeongmin
+- [Code1. Setting target documents](https://github.com/kjh8331267/AI_policy_analysis/blob/main/1_Setting_target_documents.ipynb) - by Jeongmin
 - Code2. Crawling policy data - by Jihyeon
 - Code3. Exploratory Data Analysis - by Dilara
 - Code4. Policy data analysis - by Jihyeon
