@@ -12,11 +12,13 @@ Data is sourced from [Overton](https://www.overton.io/), a database of policy do
 - Bertopic : Topic modeling
 - Visualization
 
-#### Code1. Setting target documents
-#### Code2. Crawling policy data
-#### Code3. Policy data analysis
+### Code Structure
+- Code1. Setting target documents - by Jeongmin
+- Code2. Crawling policy data - by Jihyeon
+- Code3. Exploratory Data Analysis - by Dilara
+- Code4. Policy data analysis - by Jihyeon
 
-### Team Members
-- [Jihyeon Kim](https://github.com/kjh8331267)
-- [Jeongmin Lee](https://github.com/itzel36)
-- Dilara Zharmagambetova
+### Team Members (Main Tasks)
+- [Jihyeon Kim](https://github.com/kjh8331267) (Text mining)
+- [Jeongmin Lee](https://github.com/itzel36) (Project management and results interpretation)
+- Dilara Zharmagambetova (EDA and presentation)
