@@ -21,4 +21,4 @@ Data is sourced from [Overton](https://www.overton.io/), a database of policy do
 ### Team Members (Main Tasks)
 - [Jihyeon Kim](https://github.com/kjh8331267) (Text mining and GitHub code organization)
 - [Jeongmin Lee](https://github.com/itzel36) (Project management, results interpretation and create a slide)
-- Dilara Zharmagambetova (EDA and presentation)
+- [Dilara Zharmagambetova](https://github.com/DilaraZhar) (EDA and presentation)
