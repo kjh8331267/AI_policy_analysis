@@ -16,7 +16,7 @@ Data is sourced from [Overton](https://www.overton.io/), a database of policy do
 - [Code1. Setting target documents](https://github.com/kjh8331267/AI_policy_analysis/blob/main/1_Setting_target_documents.ipynb) - by Jeongmin
 - [Code2. Crawling policy data](https://github.com/kjh8331267/AI_policy_analysis/blob/main/2_Crawling_overton_data.ipynb) - by Jihyeon
 - [Code3. Exploratory data analysis](https://github.com/kjh8331267/AI_policy_analysis/blob/main/3_Exploratory_data_analysis.ipynb) - by Dilara
-- [Code4. Topic modeling with BERTopic](https://github.com/kjh8331267/AI_policy_analysis/blob/main/3_Topic_modeling_with_BERTopic.ipynb) - by Jihyeon
+- [Code4. Topic modeling with BERTopic](https://github.com/kjh8331267/AI_policy_analysis/blob/main/4_Topic_modeling_with_BERTopic.ipynb) - by Jihyeon
 
 ### Team Members (Main Tasks)
 - [Jihyeon Kim](https://github.com/kjh8331267) (Text mining and GitHub code organization)
